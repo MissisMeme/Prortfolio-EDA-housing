@@ -1,6 +1,6 @@
 # Prortfolio-EDA-housing
 
-The project was created as part of the course *'Python Libraries for Data Science'*.
+The project was created as part of the course *"Python Libraries for Data Science"*.
 
 **Project content**
 
